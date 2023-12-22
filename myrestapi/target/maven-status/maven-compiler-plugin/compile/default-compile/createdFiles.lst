@@ -1,0 +1,4 @@
+org/openapi/quarkus/api_yaml/model/LottoFeld.class
+org/openapi/quarkus/api_yaml/model/LottoSchein.class
+org/openapi/quarkus/api_yaml/model/LottoFeld$LottoFeldQueryParam.class
+org/openapi/quarkus/api_yaml/model/LottoSchein$LottoScheinQueryParam.class

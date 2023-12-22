@@ -1,0 +1,3 @@
+org/openapi/quarkus/api_yaml/api/DefaultApi.java
+org/openapi/quarkus/api_yaml/model/LottoFeld.java
+org/openapi/quarkus/api_yaml/model/LottoSchein.java
