@@ -3,11 +3,6 @@ info:
   title: "Lottogesellschaft API"
   description: "API für die Verwaltung von Lottoscheinen und Ziehungen"
   version: "1.0.0"
-servers:
-- url: "https://pvesagup90.execute-api.eu-central-1.amazonaws.com/{basePath}"
-  variables:
-    basePath:
-      default: "test"
 paths:
   /lottoschein/zufallsschein:
     get:

@@ -21,7 +21,7 @@ import io.quarkiverse.openapi.generator.annotations.GeneratedParam;
   * <p>API für die Verwaltung von Lottoscheinen und Ziehungen</p>
   */
 @Path("/lottoschein")
-@RegisterRestClient(baseUri="https://pvesagup90.execute-api.eu-central-1.amazonaws.com/test", configKey="api_yaml")
+@RegisterRestClient( configKey="api_yaml")
 @GeneratedClass(value="api.yaml", tag = "Default")
 @ApplicationScoped
 public interface DefaultApi {
